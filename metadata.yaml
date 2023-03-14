@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '55588'
     url: http://www.gutenberg.org/2009/agents/55588
     wikipedia: https://en.wikipedia.org/wiki/George_Washington_Doane
+covers:
+- cover_type: archival
+  image_path: 70086-h/images/cover.jpg
 creator:
   author:
     agent_name: Blunt, John J. (John James)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55587
     wikipedia: https://en.wikipedia.org/wiki/John_James_Blunt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70086#Sketch-of-the-Reformation-in-England
 gutenberg_issued: '2023-02-20'
 identifiers:
   gutenberg: '70086'
